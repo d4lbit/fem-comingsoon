@@ -27,10 +27,16 @@ Users should be able to:
 
 ### Screenshot
 
+![Desktop](screenshots/desktop-1.png)
+![Desktop](screenshots/desktop-2.png)
+![Mobile](screenshots/mobile-1.png)
+![Mobile](screenshots/mobile-2.png)
+
+
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [here](https://d4lbit.github.io/fem-comingsoon/)
 
 ## My process
 
